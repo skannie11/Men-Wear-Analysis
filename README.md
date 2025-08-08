@@ -72,7 +72,6 @@ This data-driven insight helps businesses enhance their product and pricing stra
 ---
 
 ## 🖼️ Dashboard Snapshot
-
-> Upload the image (e.g., to Imgur or GitHub) and replace the link below:
-
-![Retail Brand Dashboard](https://your-image-link.png)
+<p align="center">
+<img width="1240" height="621" alt="Image" src="https://github.com/user-attachments/assets/bbaaa671-cab1-4771-9508-368f492c80a9" />
+</p>
