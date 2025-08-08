@@ -2,7 +2,9 @@
 **Project by: Insigh BI Solutions Pvt. Ltd.**
 
 ---
+### Dashboard Link : https://app.powerbi.com/links/M0jQe2gyKt?ctid=7bc45dd5-2c5a-45df-92c5-7debd428a284&pbi_source=linkShare&bookmarkGuid=91e6ce6a-4861-4587-8f38-26e9c712d107
 
+---
 ## 🧾 Summary
 
 This Power BI dashboard analyzes retail brand performance based on:
